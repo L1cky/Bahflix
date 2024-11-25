@@ -1,0 +1,24 @@
+body{
+    color: white;
+    background-color:black;
+}
+
+header {
+    border-bottom: solid 2px rgb(246, 244, 244);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 42, 42);
+}
+/* código omitido */
+
+section {
+    background: rgb(26, 2, 2);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
